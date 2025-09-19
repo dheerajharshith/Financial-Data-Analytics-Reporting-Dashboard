@@ -1,7 +1,8 @@
-Financial-Data-Analytics-Reporting-Dashboard with Power BI
+**Financial-Data-Analytics-Reporting-Dashboard with Power BI**
+
 Welcome to the Financial Reporting & Analysis with Power BI repository! This project showcases a comprehensive financial reporting and advanced analysis solution built using Power BI. Leveraging powerful data analysis expressions (DAX) and financial analysis techniques, this project delivers adaptable visualizations and insightful analytics for diverse datasets.
 
-Features
+**Features**
 
 * Comprehensive Financial Reporting: Gain insights into financial performance through a detailed Profit & Loss Statement and other fundamental analytics.
 
@@ -11,14 +12,14 @@ Features
 
 * In-depth Analytics: Conduct in-depth analysis to unveil concealed patterns in financial data, empowering strategic decision-making.
 
-Technology Stack
+**Technology Stack**
 
 * Power BI: The primary tool used for developing the financial reporting and analysis solution.
 * Data Analysis Expression (DAX): Leveraged for advanced data modeling and calculations.
 * Financial Analysis Technique: Applied to ensure accurate financial reporting and analysis.
 
 
-Examples
+**Examples**
 
 Here are a few examples of what you can do with the Financial Reporting & Analysis with Power BI solution:
 
